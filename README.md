@@ -4,6 +4,8 @@ The intelligent dashboard provides overview of the performance of Superstore by 
 
 [Dashboard]
 
+<img src="dashboard.png" />
+
 
 
 
